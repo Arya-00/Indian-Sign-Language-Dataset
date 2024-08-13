@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>0_40.jpg</filename>
+	<path>C:\Users\aryap\ISL_DATA\train\0\0_40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>261</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>27</ymin>
+			<xmax>266</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
